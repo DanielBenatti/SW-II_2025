@@ -1,0 +1,12 @@
+[
+    {
+        "item": "Videogame",
+        "preco": 1000,
+        "quantidade": 100
+    },
+    {
+        "item": "Controle",
+        "preco": 500,
+        "quantidade": 200
+    }
+]
